@@ -1,0 +1,23 @@
+.content{
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+.list{
+    list-style: none;
+    padding: 0;
+}
+
+.item{
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.item:hover{
+    background-color: #f0f0f0;
+}
