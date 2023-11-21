@@ -1,0 +1,58 @@
+{
+    "equipes": [
+        {
+            "id": 1,
+            "nom": "Los Angeles Lakers",
+            "joueurs": [
+                {
+                    "id": 101,
+                    "nom": "LeBron James"
+                },
+                {
+                    "id": 102,
+                    "nom": "Anthony Davis"
+                },
+                {
+                    "id": 103,
+                    "nom": "Russell Westbrook"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "nom": "Boston Celtics",
+            "joueurs": [
+                {
+                    "id": 201,
+                    "nom": "Jayson Tatum"
+                },
+                {
+                    "id": 202,
+                    "nom": "Jaylen Brown"
+                },
+                {
+                    "id": 203,
+                    "nom": "Marcus Smart"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "nom": "Golden State Warriors",
+            "joueurs": [
+                {
+                    "id": 301,
+                    "nom": "Stephen Curry"
+                },
+                {
+                    "id": 302,
+                    "nom": "Klay Thompson"
+                },
+                {
+                    "id": 303,
+                    "nom": "Draymond Green"
+                }
+            ]
+        }
+    ]
+}
